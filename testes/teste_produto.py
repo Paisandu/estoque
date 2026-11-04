@@ -1,4 +1,4 @@
-from     produto    import   Produto
+from     produtos.produto    import   Produto
 p1=Produto()
 p1.nome="macarrao parafuso"
 p1.quantidade=5
